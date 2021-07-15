@@ -10,15 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 8.4666665 8.4666669"
+   width="83.756126mm"
+   height="90.867493mm"
+   viewBox="0 0 83.756126 90.867493"
    version="1.1"
-   id="svg1435"
+   id="svg852"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="fav.svg">
+   sodipodi:docname="logo_movil.svg">
   <defs
-     id="defs1429" />
+     id="defs846" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,20 +26,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="72.284432"
-     inkscape:cy="19.981524"
+     inkscape:zoom="0.35"
+     inkscape:cx="296.55859"
+     inkscape:cy="102.85714"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     units="px"
      inkscape:window-width="1440"
      inkscape:window-height="837"
      inkscape:window-x="0"
      inkscape:window-y="40"
      inkscape:window-maximized="1" />
   <metadata
-     id="metadata1432">
+     id="metadata849">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -54,15 +53,26 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-288.53332)">
+     transform="translate(83.756126,-206.13251)">
     <image
        style="opacity:1"
-       y="289.38483"
-       x="1.2341483"
+       y="206.13251"
+       x="-83.756126"
        id="image367"
        xlink:href="data:image/png;base64,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 "
        preserveAspectRatio="none"
-       height="7.1418328"
-       width="6.5829067" />
+       height="90.867493"
+       width="83.756126" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.86915779px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:1.25949168"
+       x="-11.302062"
+       y="290.56693"
+       id="text1408"><tspan
+         sodipodi:role="line"
+         id="tspan1406"
+         x="-11.302062"
+         y="290.56693"
+         style="font-size:80.60746765px;fill:#d40000;stroke-width:1.25949168">.</tspan></text>
   </g>
 </svg>

@@ -1,11 +1,11 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Paratexto | Text Boutique & So.'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
   desktop: "images/logo/logo.svg"
-  desktop_height: "36px"
+  desktop_height: "40px"
 
 collections:
   services:
