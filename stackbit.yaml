@@ -63,7 +63,7 @@ models:
         hidden: true
   services:
     type: page
-    label: Services
+    label: services
     file: services.md
     singleInstance: true
     fields:
