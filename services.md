@@ -1,11 +1,11 @@
 ---
 title: services
 layout: services
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/illustrations/laptop.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
 # Servicios
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Para nosotros, la representación de tus ideas es lo más importante, por ello ponemos a tu disposición nuestros servicios. Estamos seguros que podemos ayudarte desde la corrección del libro que estás a punto de editar hasta la creación de una página web para vender tus productos. ¡No dudes en [contactarnos](/contact)!

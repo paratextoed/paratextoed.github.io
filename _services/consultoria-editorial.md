@@ -1,6 +1,6 @@
 ---
-title: "Business Sales"
-date: 2018-11-28T15:15:26+10:00
+title: "Consultoría editorial"
+date: 2021-07-12
 featured: true
 weight: 3
 ---
