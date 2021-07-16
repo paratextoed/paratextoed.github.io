@@ -88,7 +88,7 @@ models:
   teams:
     type: page
     label: Teams
-    file: team.md
+    file: equipo.md
     singleInstance: true
     fields:
       - type: string

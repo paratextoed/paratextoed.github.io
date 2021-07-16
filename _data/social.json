@@ -1,12 +1,17 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
+    "name": "Instagram",
+    "link": "https://instagram.com/paratexto",
+    "image": "images/social/instagram.svg"
   },
   {
     "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
+    "link": "https://twitter.com/intratextual",
     "image": "images/social/twitter.svg"
+  },
+  {
+    "name": "Facebook",
+    "link": "https://facebook.com/paratextoed",
+    "image": "images/social/facebook.svg"
   }
 ]
