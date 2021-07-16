@@ -1,6 +1,6 @@
 ---
 title: "Acerca de"
-date: 2018-02-22T17:01:34+07:00
+date: 2021-07-10
 layout: page
 bodyClass: page-about
 ---

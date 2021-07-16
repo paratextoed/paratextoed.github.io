@@ -1,7 +1,7 @@
 ---
 title: Paratexto | Text Boutique & So.
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Soluciones editoriales, corrección de estilo, diseño, consultoría editorial. Spa textual.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
@@ -10,4 +10,4 @@ show_call_box: true
 
 # Paratexto // Text Boutique & So.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Las soluciones que tu texto requiere: redacción, corrección de estilo, diseño, consultoría editorial, formación. Somos una Boutique y Spa Textual que consiente a tus escritos.
