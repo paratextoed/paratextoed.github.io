@@ -14,6 +14,8 @@ duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
 Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
 remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
 
+![Diseño editorial](/images/disenoeditorial.svg)
+
 ## Inter pectore totidem
 
 Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
