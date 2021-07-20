@@ -15,6 +15,8 @@ petunt dempserat dixisse, pro raptae aut male?
 - Tacui si cui inde haec ubi trepidas
 - Coniunx nulla aut
 
+![Consultoría editorial](/images/consultoria.svg)
+
 ## Geniti facinus praeruptam atris ab manus in
 
 Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
