@@ -1,5 +1,5 @@
 ---
-title: services
+title: Servicios
 layout: services
 intro_image: "images/illustrations/laptop.svg"
 intro_image_absolute: true

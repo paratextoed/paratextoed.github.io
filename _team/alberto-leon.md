@@ -1,10 +1,11 @@
 ---
-title: "Peter Van Eijk"
-date: 2018-11-19T10:47:58+10:00
+title: "Alberto R. León"
+date: 2021-07-15
 draft: false
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
+image: "images/team/leon.jpg"
+jobtitle: "Coordinador"
 linkedinurl: "https://www.linkedin.com/"
+personalurl: "https://mrleon.space"
 promoted: true
 weight: 1
 layout: team

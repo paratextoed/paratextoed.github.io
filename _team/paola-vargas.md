@@ -1,10 +1,10 @@
 ---
-title: 'Robert Johnson'
-date: 2018-12-20T13:44:23+10:00
+title: 'Paola Vargas'
+date: 2021-07-19T13:44:30+10:00
 draft: false
-image: 'images/team/vince-fleming-613817-unsplash.jpg'
-jobtitle: 'Developer'
-linkedinurl: "https://www.linkedin.com/"
+image: 'images/team/joseph-gonzalez-399972-unsplash.jpg'
+jobtitle: 'Corrección y traducción'
+linkedinurl: ""
 weight: 3
 ---
 

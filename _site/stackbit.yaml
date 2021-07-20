@@ -171,6 +171,10 @@ models:
         name: jobtitle
       - type: string
         name: linkedinurl
+      - type: string
+        name: personalurl
+      - type: string
+        name: twitterurl
       - type: number
         name: weight
         label: Weight

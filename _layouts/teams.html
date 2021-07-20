@@ -35,6 +35,14 @@ bodyClass: "page-teams"
                     {% if team.linkedinurl %}
                     <a target="_blank" href="{{ team.linkedinurl }}">LinkedIn</a>
                     {% endif %}
+                    {% if team.personalurl %}
+                    <br/>
+                    <a target="_blank" href="{{ team.personalurl }}">Sitio Web</a>
+                    {% endif %}
+                    {% if team.twitterurl %}
+                    <br/>
+                    <a target="_blank" href="{{ team.twitterurl }}">Twitter</a>
+                    {% endif %}
                 </div>
                 <div class="team-content">{{ team.content | truncate: 120 }}</div>
             </div>

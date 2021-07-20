@@ -6,12 +6,12 @@ weight: 6
 layout: service
 ---
 
-![Edición digital](/images/ediciondigital.svg)
-
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
 Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
 Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+
+![Edición digital](/images/ediciondigital.svg)
 
 - Nata perque
 - Et ferrugine laedam
