@@ -15,6 +15,16 @@ bodyClass: "page-contact"
         </div>
     </div>
 
+<!-- libro -->
+    <div id="reader-wrap">
+      <div id="prev" onclick="rendition.prev();" class="arrow">‹</div>
+      <div id="reader">
+        <div id="area"></div>
+      </div>
+      <div id="next" onclick="rendition.next();"class="arrow">›</div>
+    </div>
+<!-- libro -->
+
     <div class="col-xl-8 offset-xl-2">
 
                     <h2>¡Estemos en contacto!</h2>
@@ -76,5 +86,16 @@ bodyClass: "page-contact"
                     </form>
 
                 </div>
+
+                <!-- libro -->
+
+                <script>
+   var book = ePub("/epubs/Bataille.epub");
+   var rendition = book.renderTo("area", {
+     width: 400,
+     height: 640
+   });
+   rendition.display();
+</script>
 
 </div>
