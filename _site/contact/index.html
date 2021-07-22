@@ -6,7 +6,7 @@
   <title>Contacto</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   	<script src="https://www.google.com/recaptcha/api.js"></script><!-- captacha -->
-    <script src="/assets/js/epub.js"></script>
+  <!--  <script src="/assets/js/epub.js"></script> -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js"></script>
     <!-- libro scrip de arriba -->
   <link rel="icon" type="image/png" href="/images/favicon-32x32.svg">
@@ -190,7 +190,7 @@
                 </div>
 
                 <!-- libro -->
-
+<script src="https://cdn.jsdelivr.net/npm/epubjs/dist/epub.min.js"></script>
                 <script>
    var book = ePub("/epubs/Bataille.epub");
    var rendition = book.renderTo("area", {
