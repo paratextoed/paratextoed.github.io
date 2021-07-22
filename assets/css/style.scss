@@ -77,3 +77,56 @@ body {
   right: 20px;
   display: none;
 }
+
+// reader
+#reader-wrap {
+  position:relative;
+  background:#eee;
+  padding:20px;
+  max-width:810px;
+  margin:40px auto;
+}
+.arrow {
+  position:absolute;
+  top:50%;
+  margin-top:-32px;
+  font-size:64px;
+  color:#E2E2E2;
+  font-family:arial, sans-serif;
+  font-weight:bold;
+  cursor:pointer;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  user-select:none;
+}
+.arrow:hover {
+  color:#777;
+}
+.arrow:active {
+  color:#000;
+}
+#prev {
+  left:40px;
+}
+#next {
+  right:40px;
+}
+#reader {
+  width:440px;
+  height:640px;
+  overflow:hidden;
+  border:1px solid #ccc;
+  margin:20px auto;
+  padding:20px 20px;
+  background:#fff;
+  border-radius:0 5px 5px 0;
+  -moz-box-shadow:inset 10px 0 20px rgba(0,0,0,0.1);
+  -webkit-box-shadow:inset 10px 0 20px rgba(0,0,0,0.1);
+  box-shadow:inset 10px 0 20px rgba(0,0,0,0.1);
+}
+
+#area {
+  width:400px;
+  height:600px;
+  margin:0 auto;
+}

@@ -11,6 +11,9 @@ main:
   - name: "Contacto"
     url: "/contact/"
     weight: 5
+  - name: "Boutique"
+    url: "/boutique/"
+    weight: 5
 
 footer:
   - name: "Inicio"

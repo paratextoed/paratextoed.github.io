@@ -1,0 +1,25 @@
+---
+layout: default
+bodyClass: "page-contact"
+---
+
+<!-- libro -->
+    <div id="reader-wrap">
+      <h3>Bataille, George. <em>Lo angélico y otros poemas</em>.</h3>
+      <div id="prev" onclick="rendition.prev();" class="arrow">‹</div>
+      <div id="reader">
+        <div id="area"></div>
+      </div>
+      <div id="next" onclick="rendition.next();"class="arrow">›</div>
+    </div>
+<!-- libro -->
+
+<script src="https://cdn.jsdelivr.net/npm/epubjs/dist/epub.min.js"></script>
+                <script>
+   var book = ePub("/epubs/Bataille.epub");
+   var rendition = book.renderTo("area", {
+     width: 400,
+     height: 640
+   });
+   rendition.display();
+</script>
