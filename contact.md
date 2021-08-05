@@ -1,6 +1,5 @@
 ---
 title: Contacto
 layout: contact
+description: "Estemos en contacto. No dudes en hacernos llegar tus dudas y comentarios"
 ---
-
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
