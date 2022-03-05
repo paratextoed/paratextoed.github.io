@@ -27,7 +27,7 @@ El servicio de corrección que ofrece Paratexto tiene por objetivo maximizar las
 
 ## ¿A quién va dirigido?
 
-Este servicio es ideal para autores, empresas y a toda aquella persona interesada en mejorar la calidad de sus escritos.
+Este servicio es ideal para autores, empresas y toda aquella persona interesada en mejorar la calidad de sus escritos.
 
 
 #### Notas
