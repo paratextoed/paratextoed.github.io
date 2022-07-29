@@ -1,5 +1,5 @@
 ---
-title: "Diseño y maquetación"
+title: "Maquetación en LaTeX"
 date: 2021-01-13
 featured: true
 weight: 2

@@ -5,16 +5,16 @@ main:
   - name: "Equipo"
     url: "/team/"
     weight: 3
-  - name: "Boutique"
-    url: "/boutique/"
-    weight: 4
+  #- name: "Boutique"
+  #  url: "/boutique/"
+  #  weight: 4
   - name: "Acerca de"
     url: "/about/"
     weight: 5
   - name: "Contacto"
     url: "/contact/"
     weight: 6
-  
+
 footer:
   - name: "Inicio"
     url: "/"

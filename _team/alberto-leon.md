@@ -3,14 +3,20 @@ title: "Alberto R. León"
 date: 2021-07-15
 draft: false
 image: "images/team/leon.jpg"
-jobtitle: "Coordinador"
-linkedinurl: "https://www.linkedin.com/"
+jobtitle: "Corección y edición"
+linkedinurl: "https://www.linkedin.com/in/alberto-r-leon/"
 personalurl: "https://mrleon.space"
-promoted: true
+promoted: true # esto es por si necesitamos que aparezcan como colaboradores destacados
 weight: 1
 layout: team
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Mi experiencia profesional se destaca en procesos de producción editorial, edición digital, maquetación fija y epub 2 y 3. Asimismo, tengo experiencia en investigación, redacción, corrección de estilo académica y literaria.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Tengo experiencia en procesos de producción editorial, lecturas preliminares, aplicación de criterios editoriales, edición digital. Además tengo dominio de lenguajes XML-Jats, HTML, CCS, Latex, YAML, XSLT, Markdown, entre otros.
+
+* Modelo 1987 🍻
+* Me gustan los videojuegos 🎮
+* Amo las Bicis 🚲
+* Dog lover 🐕
+* Melómano 🎧

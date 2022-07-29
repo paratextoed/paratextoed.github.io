@@ -1,17 +1,17 @@
 [
   {
     "title": "Atención personalizada",
-    "description": "New clients receive an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "description": "Escuchamos tus necesidades y te apoyamos para concretar tu proyecto.",
+    "image": "images/features/taza.svg"
   },
   {
-    "title": "Consentimos tus textos",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "Consentimos a tus textos",
+    "description": "Damos el mejor trato a tus ideas para que comuniquen lo que deseas.",
+    "image": "images/features/diseno.svg"
   },
   {
     "title": "Soluciones editoriales",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "description": "Creamos planes y estrategias para tus proyectos editoriales.",
+    "image": "images/features/idea.svg"
   }
 ]
