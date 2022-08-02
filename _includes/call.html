@@ -5,7 +5,7 @@
     {% endif %}
     {% if site.data.contact.email %}
     <div class="call-email"><strong>Correo: </strong>
-      <a href="mailto:{{ .site.data.contact.email }}">
+      <a href="mailto:{{ .site.data.contact.email }}" target="_blank">
         {{ site.data.contact.email }}
       </a>
     </div>
@@ -13,7 +13,8 @@
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">
-        <a href="{{ site.data.contact.contact_button_link }}" class="button">Contacto</a>
+        <!-- <a href="{{ site.data.contact.contact_button_link }}" class="button">Contacto</a> -->
+        <a href="{{ site.data.contact.whatsapp }}" class="button" target="_blank"><img src="/images/social/whatsapp.svg" width="30px" alt=""> Whatsapp</a>
       </div>
     {% endif %}
 </div>
