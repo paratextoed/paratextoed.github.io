@@ -10,7 +10,7 @@ show_call_box: true
 
 # Paratexto | Text Boutique & So.
 
-Las soluciones que tu texto requiere: redacción, corrección de estilo profesional, ediciones académicas, formación en LaTeX.
+Las soluciones que tu texto requiere: corrección profesional de estilo, ediciones académicas, marcación XML-JATS.
 
 Somos una **Boutique** y **Spa Textual** que consiente a tus escritos.
 

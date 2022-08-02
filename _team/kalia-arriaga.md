@@ -11,4 +11,4 @@ promoted: true
 weight: 2
 ---
 
-Biologa entomóloga y artista visual.
+Bióloga entomóloga y artista visual.
