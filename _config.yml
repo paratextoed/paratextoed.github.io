@@ -32,6 +32,8 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+
+gems: 
   - jekyll-sitemap
 
 exclude:
